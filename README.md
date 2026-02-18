@@ -19,20 +19,20 @@ Focused on React, TypeScript and scalable frontend architecture
 ## Tech Stack
 
 ### Core
-![JavaScript]
-![TypeScript]
-![React]
-![Redux]
+[JavaScript] 
+[TypeScript] 
+[React] 
+[Redux] 
 
 ### Styling
-![HTML5]
-![CSS3]
-![SASS]
+[HTML5] 
+[CSS3] 
+[SASS] 
 
 ### Tools
-![Git]
-![Figma]
-![Vite]
+[Git] 
+[Figma] 
+[Vite] 
 
 ---
 Work Experience
