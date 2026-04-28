@@ -19,7 +19,7 @@ I create responsive frontend interfaces, robust backend APIs, and full-stack pro
 
 ---
 
-## Tech Stack
+## 🧑🏼‍💻 Tech Stack
 
 ### Frontend
 
@@ -55,26 +55,31 @@ I create responsive frontend interfaces, robust backend APIs, and full-stack pro
 - Cypress
 
 ---
+### Commercial Projects:
+## *Furniture Store*
 
-## Featured Projects
+A full-stack e-commerce platform developed for a furniture retail business.
 
-### Furniture Store _(Commercial Project)_
+**Stack:** Next.js, Node.js, Express.js, PostgreSQL, Prisma ORM, JWT
 
-Full-stack e-commerce platform for furniture business.
+#### 🦏 Key Features
 
-**Stack:** Next.js, Node.js, PostgreSQL, Prisma, JWT
+- Server-side rendering with **Next.js**
+- Secure JWT Authentication
+- Product catalog with categories and filtering
+- Dynamic product pages
+- Shopping cart & favorites
+- Responsive design for all devices
+- REST API with Express.js
+- PostgreSQL database with Prisma ORM
 
-- Server-side rendering
-- Authentication system
-- Product management
-- REST API
+#### 💻 Responsibilities
 
-> Source code private
+- Built frontend UI and reusable components
+- Developed backend REST API
+- Designed database structure
+- Implemented authentication & protected routes
+- Integrated frontend with backend services
 
-## Contact Me
-
-Email: vasylenko.tymofii.fe@gmail.com  
- Telegram: https://t.me/Zzzrozik  
- LinkedIn: https://www.linkedin.com/in/tymofii-vasylenko-6a26b43b3/
-
+> Commercial project. Source code is private.
 ---
