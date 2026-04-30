@@ -7,18 +7,16 @@
 [![Gmail](https://img.shields.io/badge/vasylenko.tymofii.fe@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vasylenko.tymofii.fe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 ![Remote](https://img.shields.io/badge/Remote-Available-22c55e?style=flat-square)
-
 </div>
 
 ---
 
 ## 👋 About Me
 
-Full-Stack Developer with commercial experience delivering web applications for international clients. I've taken **5+ freelance projects** from requirements gathering all the way to deployment — working independently and communicating directly with clients.
+**Full-Stack Developer** with commercial experience delivering web applications for international clients. I've taken 5+ freelance projects from requirements gathering all the way to deployment — working independently and communicating directly with clients.
 
-I'm comfortable across the entire stack: building polished SPAs on the frontend, designing REST APIs, handling JWT auth flows, and managing PostgreSQL databases. I also actively use **AI coding tools** (Cursor, Claude Code) to ship faster without cutting corners on architecture.
+I'm comfortable across the entire stack: building polished SPAs on the frontend, designing REST APIs, handling JWT auth flows, and managing PostgreSQL databases. I also actively use AI coding tools (Cursor, Claude Code) to ship faster without cutting corners on architecture.
 
 Currently open to **strong junior / middle full-stack or frontend roles**.
 
@@ -87,7 +85,7 @@ Delivered **5+ client projects end-to-end** — from requirements gathering and 
 
 <div align="center">
 
-**Open to work · Remote · Junior / Middle Full-Stack or Frontend**
+**Open to work · Remote · Strong Junior / Middle Full-Stack or Frontend**
 
 *Let's build something together →* [vasylenko.tymofii.fe@gmail.com](mailto:vasylenko.tymofii.fe@gmail.com)
 
