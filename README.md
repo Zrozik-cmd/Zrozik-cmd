@@ -5,7 +5,7 @@
 **Full-Stack Developer** · Building web applications for international clients
 
 [![Gmail](https://img.shields.io/badge/vasylenko.tymofii.fe@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vasylenko.tymofii.fe@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/tymofii-vasylenko-6a26b43b3/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tymofii-vasylenko-6a26b43b3/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/TymofiiVasylenko)
 [![CV](https://img.shields.io/badge/CV-Download-F97316?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1k2zGRsRDd0JB3AtCkgz3D-L-eNKsJmDg/view?usp=sharing)
 ![Remote](https://img.shields.io/badge/Remote-Available-22c55e?style=flat-square)
