@@ -14,12 +14,18 @@
 ---
 
 ## 👋 About Me
+**Full-Stack Developer** with commercial freelance experience building modern web applications for
+international clients. Delivered **8+ projects** end-to-end, including **e-commerce** platforms, CRM systems,
+dashboards, and SPA applications. Experienced in frontend and backend development using React, Next.js,
+Node.js, PostgreSQL, and Prisma ORM.
 
-**Full-Stack Developer** with commercial experience delivering web applications for international clients. I've taken 5+ freelance projects from requirements gathering all the way to deployment — working independently and communicating directly with clients.
+Skilled in building scalable **REST API**s, authentication systems, payment integrations (**Stripe**, mono
+acquiring), and **Dockerized** applications. Strong understanding of modern frontend architecture, state
+management, SSR, and responsive UI development.
 
-I'm comfortable across the entire stack: building polished SPAs on the frontend, designing REST APIs, handling JWT auth flows, and managing PostgreSQL databases. I also actively use AI coding tools (Cursor, Claude Code) to ship faster without cutting corners on architecture.
-
-Currently open to **strong junior / middle full-stack or frontend roles**.
+Experienced with **AI-assisted** development tools such as Cursor and Claude Code to accelerate delivery
+while maintaining code quality and ownership of technical decisions.
+Currently open to Junior+ / Middle Frontend or Full-Stack roles.
 
 ---
 
@@ -63,7 +69,7 @@ Delivered **5+ client projects end-to-end** — from requirements gathering and 
  
 **What I built:**
  
--  **Full-stack furniture e-commerce store** — Next.js SSR, JWT authentication with protected routes, REST API, PostgreSQL + Prisma ORM for product and user data management
+-  **Full-stack furniture e-commerce store** — Next.js SSR and payment integrations, JWT authentication with protected routes, REST API, PostgreSQL + Prisma ORM for product and user data management
 -  **Business CRM system** — dashboard, task management, user profiles, and admin panel
 -  **JWT auth flows** — register, login, protected routes, and token management across multiple projects
 -  **REST APIs** — designed and built with Node.js/Express, PostgreSQL database managed via Prisma ORM
@@ -76,11 +82,12 @@ Delivered **5+ client projects end-to-end** — from requirements gathering and 
 ## 🐘 What I Bring
  
 ```
-✔  End-to-end ownership — from first conversation to production deploy
-✔  Direct client communication in English
-✔  Pixel-perfect Figma implementation
-✔  AI-accelerated workflow without sacrificing code quality
-✔  Self-managed, deadline-driven, async-friendly
+✔ Production-ready frontend development
+✔ Full-stack problem solving
+✔ Scalable architecture mindset
+✔ Strong React / Next.js ecosystem knowledge
+✔ Clean, maintainable, and reusable code
+✔ Fast adaptation and independent delivery
 ```
 ---
 
