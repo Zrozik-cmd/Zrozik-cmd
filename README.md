@@ -25,7 +25,6 @@ management, SSR, and responsive UI development.
 
 Experienced with **AI-assisted** development tools such as Cursor and Claude Code to accelerate delivery
 while maintaining code quality and ownership of technical decisions.
-Currently open to Junior+ / Middle Frontend or Full-Stack roles.
 
 ---
 
@@ -60,29 +59,11 @@ Currently open to Junior+ / Middle Frontend or Full-Stack roles.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-## 💼 My experience
- 
-### Freelance Full-Stack Developer · Fiverr
-`React · Next.js · TypeScript · Node.js · Express · PostgreSQL · Prisma · JWT · SCSS/BEM · Docker · Cursor`
- 
-Delivered **5+ client projects end-to-end** — from requirements gathering and architecture decisions to production deployment, communicating directly with international clients throughout.
- 
-**What I built:**
- 
--  **Full-stack furniture e-commerce store** — Next.js SSR and payment integrations, JWT authentication with protected routes, REST API, PostgreSQL + Prisma ORM for product and user data management
--  **Business CRM system** — dashboard, task management, user profiles, and admin panel
--  **JWT auth flows** — register, login, protected routes, and token management across multiple projects
--  **REST APIs** — designed and built with Node.js/Express, PostgreSQL database managed via Prisma ORM
--  **Containerized deployments** — Docker + Docker Compose for full-stack apps (frontend, backend, database)
--  **SPAs with React + Redux Toolkit** — state management, dynamic routing, REST API integration
--  **Pixel-perfect Figma implementations** — adaptive layouts for all screen sizes using Flexbox and Grid
--  **AI-assisted development** — used Cursor and Claude Code to accelerate delivery while keeping full ownership of architecture decisions
----
  
 ## 🐘 What I Bring
  
 ```
-✔ Production-ready frontend development
+✔ Production-ready full-stack development
 ✔ Full-stack problem solving
 ✔ Scalable architecture mindset
 ✔ Strong React / Next.js ecosystem knowledge
@@ -92,8 +73,6 @@ Delivered **5+ client projects end-to-end** — from requirements gathering and 
 ---
 
 <div align="center">
-
-**Open to work · Remote · Strong Junior / Middle Full-Stack or Frontend**
 
 *Let's build something together →* [vasylenko.tymofii.fe@gmail.com](mailto:vasylenko.tymofii.fe@gmail.com)
 
