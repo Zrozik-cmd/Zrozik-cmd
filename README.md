@@ -2,29 +2,22 @@
 
 # Tymofii Vasylenko
 
-**Full-Stack Developer** · Building web applications for international clients
+**Full-Stack Developer** | NestJS • React • PostgreSQL • TypeScript
 
 [![Gmail](https://img.shields.io/badge/vasylenko.tymofii.fe@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vasylenko.tymofii.fe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tymofii-vasylenko-6a26b43b3/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/TymofiiVasylenko)
-[![CV](https://img.shields.io/badge/CV-Download-F97316?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1k2zGRsRDd0JB3AtCkgz3D-L-eNKsJmDg/view?usp=sharing)
-![Remote](https://img.shields.io/badge/Remote-Available-22c55e?style=flat-square)
 </div>
 
 ---
 
 ## 👋 About Me
-**Full-Stack Developer** with commercial freelance experience building modern web applications for
-international clients. Delivered **8+ projects** end-to-end, including **e-commerce** platforms, CRM systems,
-dashboards, and SPA applications. Experienced in frontend and backend development using React, Next.js,
-Node.js, PostgreSQL, and Prisma ORM.
 
-Skilled in building scalable **REST API**s, authentication systems, payment integrations (**Stripe**, mono
-acquiring), and **Dockerized** applications. Strong understanding of modern frontend architecture, state
-management, SSR, and responsive UI development.
+**Full-Stack Developer** with commercial experience building web applications, CRM systems, and business platforms.
 
-Experienced with **AI-assisted** development tools such as Cursor and Claude Code to accelerate delivery
-while maintaining code quality and ownership of technical decisions.
+Experienced in TypeScript, React, Next.js, NestJS, Node.js, PostgreSQL, and Prisma ORM. Skilled in developing scalable applications, designing APIs, implementing authentication systems, and delivering end-to-end solutions.
+
+Passionate about software engineering, clean architecture, and building reliable products with modern technologies.
 
 ---
 
@@ -44,6 +37,7 @@ while maintaining code quality and ownership of technical decisions.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
@@ -64,7 +58,7 @@ while maintaining code quality and ownership of technical decisions.
  
 ```
 ✔ Production-ready full-stack development
-✔ Full-stack problem solving
+✔ API and backend architecture design
 ✔ Scalable architecture mindset
 ✔ Strong React / Next.js ecosystem knowledge
 ✔ Clean, maintainable, and reusable code
