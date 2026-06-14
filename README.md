@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 About Me
+## 🦍 About Me
 
 **Full-Stack Developer** with commercial experience building web applications, CRM systems, and business platforms.
 
